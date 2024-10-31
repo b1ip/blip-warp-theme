@@ -26,10 +26,10 @@ Navigate to the Warp themes directory:
 mkdir -p ~/.warp/themes
 ```
 
-Copy the theme file to the Warp themes directory:
+Copy the entire themes folder to the Warp themes directory:
 
 ```bash
-cp blip-warp-theme.json ~/.warp/themes/
+cp -r themes ~/.warp/
 ```
 
 Apply the theme in Warp:

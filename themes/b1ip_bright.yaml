@@ -1,0 +1,26 @@
+accent: '#6a5b9a' # Accent color for UI elements, violet
+background: '#212121' # Terminal background color, dark grey
+details: darker # The theme is darker.
+foreground: '#7e7e7e' # The foreground color, grey
+terminal_colors: # Ansi escape colors, customized to your palette.
+  bright:
+    black: '#2d2d2d'  # A slightly lighter shade of black for contrast
+    blue: '#8ea4d2'  # A lighter, more vibrant shade of your blue
+    cyan: '#8a99b8'  # A lighter, more vibrant shade of your cyan
+    green: '#99a39b'  # A lighter green, derived from your normal green
+    magenta: '#7b6aa2'  # A lighter, more vibrant shade of your violet
+    red: '#b97a7d'  # A lighter, more vibrant shade of your red
+    white: '#e3e2e1'  # A very light grey, almost white, for bright text
+    yellow: '#dda98b'  # A lighter, more vibrant shade of your yellow
+  normal:
+    black: '#212121'  # Dark grey for normal black (usually the background)
+    blue: '#779fd8'  # Your preferred blue
+    cyan: '#748baa'  # Your preferred cyan
+    green: '#7e8d85'  # Derived muted green, to complement your palette
+    magenta: '#695d8b'  # Your preferred violet, used here as magenta
+    red: '#9c5c63'  # Your preferred red
+    white: '#c1bfbd'  # Grey for normal text, for readability
+    yellow: '#cb956b'  # Your preferred orange, used here as yellow
+
+
+ 
